@@ -39,3 +39,7 @@ const nywnchan = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" width="100%" />
+
+Made with ✨ sparkles and ☕ caffeine by **NywnChan** 
