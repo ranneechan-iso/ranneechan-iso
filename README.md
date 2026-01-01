@@ -1,6 +1,6 @@
 <h2> Hi, I'm NywnChan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNveTl2ZTY2eGVidHVyanZzOXRjYXQxYWlwbDhueTYwbzRuZTlsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9HIwpKaerZ3z6RTTyW/giphy.gif" width="160">
-<p><em>Software Enginner at <a href="https://itb.ac.id/">Bandung Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://itb.ac.id/">Bandung Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://www.lawencon.com/">Lawencon</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Discord NywmChan](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
