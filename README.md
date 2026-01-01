@@ -40,6 +40,12 @@ const nywnchan = {
 
 ---
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" width="100%" />
 
 Made with ✨ sparkles and ☕ caffeine by **NywnChan** 
+
+*Happy coding, lovely people!* 🌸💖
+
+</div>
